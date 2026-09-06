@@ -10,6 +10,9 @@ A stylish, modern & responsive clothing brand website crafted for **FlexR**, fea
 * Clothing-focused product experience
 * Admin panel for easy content management
 
+🌐 **Live Website:**  :   https://flexrshop.netlify.app/
+
+
 **Developed by AkashProg**
 
 ### Admin Access
