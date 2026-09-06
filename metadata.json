@@ -1,0 +1,6 @@
+{
+  "name": "FlexR",
+  "description": "Premium Gym Clothing Brand",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
