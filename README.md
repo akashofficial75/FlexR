@@ -15,7 +15,18 @@ A stylish, modern & responsive clothing brand website crafted for **FlexR**, fea
 ### Admin Access
 
 **Email:** [xadikultr@gmail.com](mailto:xadikultr@gmail.com)
-**Password:** 583810522
+**Password:** 
+
+5-
+8-
+3-
+8-
+1-
+0-
+5-
+2-
+2-
+
 
 ### All Edit / Management Email
 
