@@ -1,20 +1,22 @@
 # FlexR — Modern Clothing Brand
 
-A stylish, responsive, and modern e-commerce website designed for **FlexR**, blending a clean aesthetic with a premium fashion-focused experience.
+A stylish, modern & responsive clothing brand website crafted for **FlexR**, featuring a clean aesthetic, smooth experience, and premium fashion-focused design.
 
 ✨ **Features**
 
-* Modern & responsive design
-* Mobile, tablet & desktop optimized
-* Elegant clothing-focused UI
-* Smooth interactions & animations
+* Modern & aesthetic UI
+* Fully responsive across all devices
+* Smooth animations & interactions
+* Clothing-focused product experience
 * Admin panel for easy content management
 
 **Developed by AkashProg**
 
 ### Admin Access
 
-**Admin Email:** [xadikultr@gmail.com](mailto:xadikultr@gmail.com)
-**Edit Email:** [akashabdullahalmahmud335500@gmail.com](mailto:akashabdullahalmahmud335500@gmail.com)
+**Email:** [xadikultr@gmail.com](mailto:xadikultr@gmail.com)
+**Password:** 583810522
 
-> 🔐 For security, admin passwords should never be stored in the GitHub repository. Use secure environment variables or a private repository instead.
+### All Edit / Management Email
+
+**Email:** [akashabdullahalmahmud335500@gmail.com](mailto:akashabdullahalmahmud335500@gmail.com)
